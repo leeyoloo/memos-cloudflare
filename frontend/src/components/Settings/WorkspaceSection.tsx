@@ -1,5 +1,6 @@
 import { Select, Option, Divider } from "@mui/joy";
-import { Button, Textarea, Switch } from "@usememos/mui";
+import { Button, Switch } from "@usememos/mui";
+import Textarea from "@/components/ui/Textarea";
 import { isEqual } from "lodash-es";
 import { ExternalLinkIcon } from "lucide-react";
 import { observer } from "mobx-react-lite";

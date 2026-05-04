@@ -1,4 +1,5 @@
-import { Input, Textarea, Button } from "@usememos/mui";
+import { Input, Button } from "@usememos/mui";
+import Textarea from "@/components/ui/Textarea";
 import { XIcon } from "lucide-react";
 import React, { useState } from "react";
 import { toast } from "react-hot-toast";
